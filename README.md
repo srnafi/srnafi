@@ -18,6 +18,10 @@ I’m Sezar — I build tools that solve real problems, not random demos.
 
 ### Stats
 
+<details>
+<summary>📊 GitHub stats</summary>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=github_dark&hide_border=true" />
   <img alt="GitHub stats for srnafi" src="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=default&hide_border=true" />
@@ -27,6 +31,8 @@ I’m Sezar — I build tools that solve real problems, not random demos.
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=github_dark&hide_border=true" />
   <img alt="Top languages for srnafi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=default&hide_border=true" />
 </picture>
+
+</details>
 
 ### Projects
 
