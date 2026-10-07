@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=390&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
-  <img alt="Hi there, I'm Sezar — I build desktop tools and web apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=390&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
+  <img alt="Hi there, I'm Sezar — I build desktop tools and web apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
 </picture>
 
 I'm Sezar — I build desktop tools and web apps.
@@ -15,12 +15,12 @@ I'm Sezar — I build desktop tools and web apps.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img alt="GitHub stats for srnafi" src="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=default&hide_border=true" width="390" />
+  <img alt="GitHub stats for srnafi" src="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=default&hide_border=true" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=github_dark&hide_border=true" />
-  <img alt="Top languages for srnafi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=default&hide_border=true" width="390" />
+  <img alt="Top languages for srnafi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=default&hide_border=true" />
 </picture>
 
 ### Projects
@@ -29,7 +29,7 @@ I'm Sezar — I build desktop tools and web apps.
 - [EX-Expander](https://github.com/srnafi/EX-Expander) — C++ — Type a shortcode, pick a popup — expansion inserted anywhere (Win32, WebView2, SQLite).
 - [store](https://github.com/srnafi/store) — JavaScript — E-commerce front-end in React 18 with Tailwind.
 
-<img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" width="390" />
+<img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" />
 
 ### Contact
 
