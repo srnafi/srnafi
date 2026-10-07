@@ -6,6 +6,8 @@
 I’m Sezar — I build tools that solve real problems, not random demos.
 **LingoLens is built and shipped** — snip any on-screen text and read it in your language, right where it was.
 
+<sub>Python • C++ • JavaScript — desktop tools and web apps that ship</sub>
+
 ### Tech
 
 <img alt="Python, C++, JavaScript, React, Tailwind, SQLite" width="300" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
@@ -46,3 +48,5 @@ I’m Sezar — I build tools that solve real problems, not random demos.
 
 <a href="https://github.com/srnafi"><img alt="GitHub srnafi" src="https://img.shields.io/badge/GitHub-srnafi-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="mailto:sezarrezanafi@gmail.com"><img alt="Email sezarrezanafi@gmail.com" src="https://img.shields.io/badge/Email-sezarrezanafi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" />
