@@ -1,16 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
-  <img alt="Hi there, I’m Sezar — I build desktop tools and web apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+tools+that+solve+real+problems" />
+  <img alt="Hi there, I’m Sezar — I build tools that solve real problems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+tools+that+solve+real+problems" />
 </picture>
 
-I’m Sezar — I build desktop tools and web apps.
-Currently focused on **LingoLens**, a real-time screen-translation overlay.
+I’m Sezar — I build tools that solve real problems, not random demos.
+**LingoLens is built and shipped** — snip any on-screen text and read it in your language, right where it was.
 
 ### Tech
 
 <img alt="Python, C++, JavaScript, React, Tailwind, SQLite" width="300" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
 <br>
 <sub>Python • C++ • JavaScript • React • Tailwind • SQLite</sub>
+
+<sub>Also work with: PyQt5, Flask, OpenCV, OpenVINO, EasyOCR, Win32 API, WebView2</sub>
 
 ### Stats
 
@@ -26,9 +28,9 @@ Currently focused on **LingoLens**, a real-time screen-translation overlay.
 
 ### Projects
 
-Currently building **[LingoLens](https://github.com/srnafi/LingoLens)** — Python — Real-time screen snipping, OCR, and translation overlay (PyQt5, EasyOCR, OpenVINO, Flask).
+**[LingoLens](https://github.com/srnafi/LingoLens)** — Python — Snip foreign-language text anywhere on screen and read the translation overlaid at source coordinates in one hotkey. Built with: PyQt5, Flask, EasyOCR, OpenVINO.
 
-- **[EX-Expander](https://github.com/srnafi/EX-Expander)** — C++ — Type a shortcode, pick from a popup, and your expansion is inserted anywhere, instantly (Win32, WebView2, SQLite).
+- **[EX-Expander](https://github.com/srnafi/EX-Expander)** — C++ — Kills repetitive typing: type a shortcode, pick the popup, expansion lands in any app without stealing focus. Built with: Win32 API, WebView2, SQLite.
 
   <details>
   <summary>EX-Expander demo: type a shortcode, pick the popup, expansion lands in Gmail</summary>
@@ -38,7 +40,7 @@ Currently building **[LingoLens](https://github.com/srnafi/LingoLens)** — Pyth
   </p>
   </details>
 
-- **[store](https://github.com/srnafi/store)** — JavaScript — E-commerce front-end built with React 18 and Tailwind CSS.
+- **[store](https://github.com/srnafi/store)** — JavaScript — Full shopping flow from browsing to cart in a React front-end. Built with: React 18, Tailwind CSS.
 
 ### Contact
 
