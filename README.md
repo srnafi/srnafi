@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
-  <img alt="Hi there, I'm Sezar — I build desktop tools and web apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
+  <img alt="Hi there, I’m Sezar — I build desktop tools and web apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+web+apps" />
 </picture>
 
-I'm Sezar — I build desktop tools and web apps.
+I’m Sezar — I build desktop tools and web apps.
 Currently focused on **LingoLens**, a real-time screen-translation overlay.
 
 ### Tech
 
-<img alt="Python, C++, JavaScript, React, Tailwind, SQLite" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
+<img alt="Python, C++, JavaScript, React, Tailwind, SQLite" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" width="300" />
 <br>
 <sub>Python • C++ • JavaScript • React • Tailwind • SQLite</sub>
 
@@ -26,11 +26,19 @@ Currently focused on **LingoLens**, a real-time screen-translation overlay.
 
 ### Projects
 
-- **[LingoLens](https://github.com/srnafi/LingoLens)** — Python — Real-time screen snipping, OCR, and translation overlay (PyQt5, EasyOCR, OpenVINO, Flask).
-- **[EX-Expander](https://github.com/srnafi/EX-Expander)** — C++ — Type a shortcode, pick from a popup, and your expansion is inserted anywhere, instantly (Win32, WebView2, SQLite).
-- **[store](https://github.com/srnafi/store)** — JavaScript — E-commerce front-end built with React 18 and Tailwind CSS.
+Currently building **[LingoLens](https://github.com/srnafi/LingoLens)** — Python — Real-time screen snipping, OCR, and translation overlay (PyQt5, EasyOCR, OpenVINO, Flask).
 
-<img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" />
+- **[EX-Expander](https://github.com/srnafi/EX-Expander)** — C++ — Type a shortcode, pick from a popup, and your expansion is inserted anywhere, instantly (Win32, WebView2, SQLite).
+
+  <details>
+  <summary>EX-Expander demo: type a shortcode, pick the popup, expansion lands in Gmail</summary>
+  <br>
+  <p align="center">
+  <img alt="EX-Expander demo - type a shortcode, pick a popup, expansion inserted anywhere" src="assets/expander_demo_cropped.gif" width="600" />
+  </p>
+  </details>
+
+- **[store](https://github.com/srnafi/store)** — JavaScript — E-commerce front-end built with React 18 and Tailwind CSS.
 
 ### Contact
 
