@@ -8,7 +8,7 @@ Currently focused on **LingoLens**, a real-time screen-translation overlay.
 
 ### Tech
 
-<img alt="Python, C++, JavaScript, React, Tailwind, SQLite" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
+<img alt="Python, C++, JavaScript, React, Tailwind, SQLite" width="300" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
 <br>
 <sub>Python • C++ • JavaScript • React • Tailwind • SQLite</sub>
 
@@ -34,7 +34,7 @@ Currently building **[LingoLens](https://github.com/srnafi/LingoLens)** — Pyth
   <summary>EX-Expander demo: type a shortcode, pick the popup, expansion lands in Gmail</summary>
   <br>
   <p align="center">
-  <img alt="EX-Expander demo - type a shortcode, pick a popup, expansion inserted anywhere" src="assets/expander_demo_cropped.gif" />
+  <img alt="EX-Expander demo - type a shortcode, pick a popup, expansion inserted anywhere" width="600" src="assets/expander_demo_cropped.gif" />
   </p>
   </details>
 
