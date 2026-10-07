@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+tools+that+solve+real+problems" />
-  <img alt="Hi there, I’m Sezar — I build tools that solve real problems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+tools+that+solve+real+problems" />
+  <img alt="Hi there, I'm Sezar — I build tools that solve real problems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+tools+that+solve+real+problems" />
 </picture>
 
 I’m Sezar — I build tools that solve real problems, not random demos.
@@ -41,7 +41,7 @@ I’m Sezar — I build tools that solve real problems, not random demos.
   <br><sub>Built with: C++ • Win32 API • WebView2 • SQLite</sub>
 
   <p align="center">
-  <img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" width="600" src="assets/expander_demo_cropped.gif" />
+  <img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" width="100%" src="assets/expander_demo_cropped.gif" />
   </p>
 
 - **[store](https://github.com/srnafi/store)**
@@ -54,4 +54,4 @@ I’m Sezar — I build tools that solve real problems, not random demos.
 <a href="https://github.com/srnafi"><img alt="GitHub srnafi" src="https://img.shields.io/badge/GitHub-srnafi-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="mailto:sezarrezanafi@gmail.com"><img alt="Email sezarrezanafi@gmail.com" src="https://img.shields.io/badge/Email-sezarrezanafi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" />
+<img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" />
