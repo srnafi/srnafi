@@ -4,6 +4,7 @@
 </picture>
 
 I'm Sezar — I build desktop tools and web apps.
+Currently focused on **LingoLens**, a real-time screen-translation overlay.
 
 ### Tech
 
@@ -25,9 +26,9 @@ I'm Sezar — I build desktop tools and web apps.
 
 ### Projects
 
-- [LingoLens](https://github.com/srnafi/LingoLens) — Python — Desktop screen snipping, OCR and real-time translation tool (PyQt5, EasyOCR, OpenVINO).
-- [EX-Expander](https://github.com/srnafi/EX-Expander) — C++ — Type a shortcode, pick a popup — expansion inserted anywhere (Win32, WebView2, SQLite).
-- [store](https://github.com/srnafi/store) — JavaScript — E-commerce front-end in React 18 with Tailwind.
+- **[LingoLens](https://github.com/srnafi/LingoLens)** — Python — Real-time screen snipping, OCR, and translation overlay (PyQt5, EasyOCR, OpenVINO, Flask).
+- **[EX-Expander](https://github.com/srnafi/EX-Expander)** — C++ — Type a shortcode, pick from a popup, and your expansion is inserted anywhere, instantly (Win32, WebView2, SQLite).
+- **[store](https://github.com/srnafi/store)** — JavaScript — E-commerce front-end built with React 18 and Tailwind CSS.
 
 <img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" />
 
