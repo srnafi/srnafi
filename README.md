@@ -8,6 +8,8 @@ I'm Sezar — I build desktop tools and web apps.
 ### Tech
 
 <img alt="Python, C++, JavaScript, React, Tailwind, SQLite" src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,sqlite" />
+<br>
+<sub>Python • C++ • JavaScript • React • Tailwind • SQLite</sub>
 
 ### Stats
 
@@ -26,6 +28,8 @@ I'm Sezar — I build desktop tools and web apps.
 - [LingoLens](https://github.com/srnafi/LingoLens) — Python — Desktop screen snipping, OCR and real-time translation tool (PyQt5, EasyOCR, OpenVINO).
 - [EX-Expander](https://github.com/srnafi/EX-Expander) — C++ — Type a shortcode, pick a popup — expansion inserted anywhere (Win32, WebView2, SQLite).
 - [store](https://github.com/srnafi/store) — JavaScript — E-commerce front-end in React 18 with Tailwind.
+
+<img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" width="390" />
 
 ### Contact
 
