@@ -46,7 +46,7 @@ Open to backend, systems and AI evaluation roles.
 
 ### [LingoLens](https://github.com/srnafi/LingoLens)
 
-**OCR screen translator.** Press `Alt+Shift+M`, drag a box over any on-screen text, and the translation renders right where the original was.
+**OCR screen translator.** Press <kbd>Alt+Shift+M</kbd>, drag a box over any on-screen text, and the translation renders right where the original was.
 
 - Persistent **Flask + EasyOCR** backend loads models once, so snips are instant (20+ languages)
 - **55% faster OCR** through optimized image preprocessing
