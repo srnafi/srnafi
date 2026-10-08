@@ -1,62 +1,98 @@
-# Hi, I'm Sezar 👋
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+backend+APIs" />
-  <img alt="Hi there, I'm Sezar — I build desktop tools and backend APIs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F2937&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Sezar;I+build+desktop+tools+%26+backend+APIs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F8FAFC&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+everyday+annoyances;Native+desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
+  <img alt="I build tools that fix everyday annoyances" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F2937&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+everyday+annoyances;Native+desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
 </picture>
 
-I'm Sezar — Backend & Systems Engineer building desktop tools and backend APIs in Python and C++.
-**LingoLens is built and shipped** — snip any on-screen text and read it in your language, right where it was.
+<a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sezarrezanafi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/srnafi?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<sub>Python • C++ • JavaScript — desktop tools and backend systems that ship</sub>
+</div>
 
-### Tech
+---
 
-<img alt="Python" width="48" src="https://skillicons.dev/icons?i=python" /> <img alt="C++" width="48" src="https://skillicons.dev/icons?i=cpp" /> <img alt="JavaScript" width="48" src="https://skillicons.dev/icons?i=js" /> <img alt="Java" width="48" src="https://skillicons.dev/icons?i=java" /> <img alt="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs" /> <img alt="Docker" width="48" src="https://skillicons.dev/icons?i=docker" />
-<br>
-<sub>Also work with: TypeScript • C • Shell • Lua • Express • REST APIs • MongoDB • PostgreSQL • SQLite • Flask • FastAPI • React • Electron • PyQt5 • OpenCV • OpenVINO • EasyOCR • Win32 API • Direct2D • WebView2 • Git</sub>
+## About
 
-### Stats
+I'm a **Backend & Systems Engineer** in Dhaka, Bangladesh. I build software by starting from a small, real annoyance and asking how to make it disappear, and I like the result to be fast, light and simple enough that nobody needs a manual.
+
+- **EX-Expander** replaces the habit of memorizing shortcuts. Start typing and a popup suggests your expansions, so you pick one with the arrow keys. It works in any app, never steals focus, and runs in a 4 MB native executable.
+- **LingoLens** removes the copy, switch-tab, paste routine of translating on-screen text. Snip any region and the translation appears in place, right where the original was.
+
+I also bring an AI-evaluation background (5,500+ LLM evaluation and annotation tasks across RLHF, tool-calling and multilingual projects), so I know how models fail and how to test them.
+
+Open to backend, systems and AI evaluation roles.
+
+---
+
+## Featured Projects
+
+### [EX-Expander](https://github.com/srnafi/EX-Expander) &nbsp; [![release](https://img.shields.io/github/v/release/srnafi/EX-Expander?style=flat-square)](https://github.com/srnafi/EX-Expander/releases/latest)
+
+**A system-wide text expander for Windows.** Type a shortcode in any app, pick from the popup, and the expansion is inserted without stealing focus. No need to memorize your own shortcuts.
+
+- **4 MB** native executable, **~3% CPU** while in active use
+- Low-level keyboard hooks: works in browsers, editors and games
+- GPU-rendered popups (Direct2D) that never steal focus
+- Per-app scoping, custom trigger characters, auto-start on login
+- Clipboard-safe insertion and a built-in WebView2 expansion manager for adding and editing expansions
+
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="Win32 API" src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" /> <img alt="Direct2D" src="https://img.shields.io/badge/Direct2D-00A4EF?style=flat-square" /> <img alt="WebView2" src="https://img.shields.io/badge/WebView2-3276BC?style=flat-square&logo=microsoftedge&logoColor=white" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+<p align="center">
+  <img alt="EX-Expander demo: type a shortcode, pick a popup, expansion inserted anywhere" width="85%" src="assets/expander_demo_cropped.gif" />
+</p>
+
+### [LingoLens](https://github.com/srnafi/LingoLens)
+
+**OCR screen translator.** Press `Alt+Shift+M`, drag a box over any on-screen text, and the translation renders right where the original was.
+
+- Persistent **Flask + EasyOCR** backend loads models once, so snips are instant (20+ languages)
+- **55% faster OCR** through optimized image preprocessing
+- Tiered translation fallback (Google → deep-translator → MyMemory) so a snip never fails
+- Dark PyQt5 control center for languages, colors, opacity and fonts
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-FF6F00?style=flat-square" /> <img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-00AEEF?style=flat-square&logo=intel&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+---
+
+## Most Used Languages
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img alt="GitHub stats for srnafi" src="https://github-readme-stats.vercel.app/api?username=srnafi&show_icons=true&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=github_dark&hide_border=true&card_width=450" />
+  <img alt="Most used languages for srnafi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=default&hide_border=true&card_width=450" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=github_dark&hide_border=true" />
-  <img alt="Top languages for srnafi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnafi&layout=compact&theme=default&hide_border=true" />
-</picture>
+</div>
 
-### Projects
+---
 
-- **[LingoLens](https://github.com/srnafi/LingoLens)**
+## Tech Stack
 
-  Snip any on-screen region — a persistent OCR backend serving 20+ languages lands paragraph-level translations at source coordinates in one hotkey.
-  - Dark PyQt5 Control Center for languages, colors, opacity, and fonts
-  - Tiered translation fallback (Google → deep-translator → MyMemory) so a snip never fails
-  - Persistent Flask + EasyOCR backend loads models once for instant snips
-  - `Alt+Shift+M` hotkey — drag a box and the translation renders in place
+| | |
+|---|---|
+| **Languages** | Python · C++ · JavaScript / TypeScript · Java · C · Shell · Lua |
+| **Backend** | Node.js · Express · Flask · FastAPI · REST APIs · JWT / RBAC |
+| **Databases** | MongoDB · PostgreSQL · SQLite |
+| **Systems & Desktop** | Win32 API · Direct2D · WebView2 · PyQt5 · Electron |
+| **Vision / ML tooling** | OpenCV · EasyOCR · OpenVINO |
+| **Tools** | Git · Docker · Linux · React |
 
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-FF6F00?style=flat-square" /> <img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-00AEEF?style=flat-square&logo=intel&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<div align="left">
+<img alt="Python" width="44" src="https://skillicons.dev/icons?i=python" /> <img alt="C++" width="44" src="https://skillicons.dev/icons?i=cpp" /> <img alt="JavaScript" width="44" src="https://skillicons.dev/icons?i=js" /> <img alt="Node.js" width="44" src="https://skillicons.dev/icons?i=nodejs" /> <img alt="Docker" width="44" src="https://skillicons.dev/icons?i=docker" /> <img alt="Git" width="44" src="https://skillicons.dev/icons?i=git" />
+</div>
 
-- **[EX-Expander](https://github.com/srnafi/EX-Expander)** [![release](https://img.shields.io/github/v/release/srnafi/EX-Expander?style=flat-square)](https://github.com/srnafi/EX-Expander/releases/latest)
+---
 
-  Type a shortcode in any app — a portable native engine with low-level keyboard hooks and GPU-rendered popups inserts your expansion without stealing focus.
-  - Popup suggestions as you type — arrow keys to pick, Enter to insert
-  - Works in any window (browsers, editors, games) without stealing focus
-  - Per-app scoping, custom trigger characters, auto-start on login
-  - Clipboard-safe insertion plus a built-in expansion manager
+## AI Evaluation Background
 
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="Win32 API" src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" /> <img alt="Direct2D" src="https://img.shields.io/badge/Direct2D-00A4EF?style=flat-square" /> <img alt="WebView2" src="https://img.shields.io/badge/WebView2-3276BC?style=flat-square&logo=microsoftedge&logoColor=white" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+- **RWS TrainAI**: 5,000+ multilingual evaluation and annotation tasks (Jan 2025 – Aug 2026)
+- **Outlier (Scale AI)**: 400+ assignments in LLM evaluation, adversarial prompting, RLHF and tool-calling, plus reviewing other contributors' work (Oct 2024 – Feb 2026)
+- Completed RWS Linguistic AI certification training (machine translation, NMT, LLMs, MT evaluation)
 
-  <p align="center">
-  <img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" width="100%" src="assets/expander_demo_cropped.gif" />
-  </p>
+---
 
-### Contact
-
-<a href="https://github.com/srnafi"><img alt="GitHub srnafi" src="https://img.shields.io/badge/GitHub-srnafi-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn srnafi" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sezarrezanafi@gmail.com"><img alt="Email sezarrezanafi@gmail.com" src="https://img.shields.io/badge/Email-sezarrezanafi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" />
+<img alt="footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=100&section=footer" />
