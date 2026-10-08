@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F8FAFC&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+everyday+annoyances;Native+desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
-  <img alt="I build tools that fix everyday annoyances" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F2937&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+everyday+annoyances;Native+desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F8FAFC&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+annoyances;Desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
+  <img alt="I build tools that fix annoyances" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F2937&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+annoyances;Desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
 </picture>
 
 <a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -42,11 +42,12 @@ Open to backend, systems and AI evaluation roles.
 
 <p align="center">
   <img alt="EX-Expander demo: type a shortcode, pick a popup, expansion inserted anywhere" width="85%" src="assets/expander_demo_cropped.gif" />
+  <br><sub>Type :hi → pick → inserted anywhere</sub>
 </p>
 
 ### [LingoLens](https://github.com/srnafi/LingoLens)
 
-**OCR screen translator.** Press <kbd>Alt+Shift+M</kbd>, drag a box over any on-screen text, and the translation renders right where the original was.
+**OCR screen translator.** Press <kbd>Alt+Shift+M</kbd>, drag a box over any on-screen text — the translation renders in place over the original.
 
 - Persistent **Flask + EasyOCR** backend loads models once, so snips are instant (20+ languages)
 - **55% faster OCR** through optimized image preprocessing
@@ -79,7 +80,7 @@ Open to backend, systems and AI evaluation roles.
 | **Databases** | MongoDB · PostgreSQL · SQLite |
 | **Systems & Desktop** | Win32 API · Direct2D · WebView2 · PyQt5 · Electron |
 | **Vision / ML tooling** | OpenCV · EasyOCR · OpenVINO |
-| **Tools** | Git · Docker · Linux · React |
+| **Tools & Frontend** | Git · Docker · Linux · React |
 
 <div align="left">
 <img alt="Python" width="44" src="https://skillicons.dev/icons?i=python" /> <img alt="C++" width="44" src="https://skillicons.dev/icons?i=cpp" /> <img alt="JavaScript" width="44" src="https://skillicons.dev/icons?i=js" /> <img alt="Node.js" width="44" src="https://skillicons.dev/icons?i=nodejs" /> <img alt="Docker" width="44" src="https://skillicons.dev/icons?i=docker" /> <img alt="Git" width="44" src="https://skillicons.dev/icons?i=git" />
@@ -92,7 +93,5 @@ Open to backend, systems and AI evaluation roles.
 - **RWS TrainAI**: 5,000+ multilingual evaluation and annotation tasks (Jan 2025 – Aug 2026)
 - **Outlier (Scale AI)**: 400+ assignments in LLM evaluation, adversarial prompting, RLHF and tool-calling, plus reviewing other contributors' work (Oct 2024 – Feb 2026)
 - Completed RWS Linguistic AI certification training (machine translation, NMT, LLMs, MT evaluation)
-
----
 
 <img alt="footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=100&section=footer" />
