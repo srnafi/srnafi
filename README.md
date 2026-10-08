@@ -59,5 +59,4 @@ I'm Sezar — Backend & Systems Engineer building desktop tools and backend APIs
 <a href="https://github.com/srnafi"><img alt="GitHub srnafi" src="https://img.shields.io/badge/GitHub-srnafi-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn srnafi" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sezarrezanafi@gmail.com"><img alt="Email sezarrezanafi@gmail.com" src="https://img.shields.io/badge/Email-sezarrezanafi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-
 <img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" />
