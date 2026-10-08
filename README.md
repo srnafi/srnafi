@@ -33,12 +33,22 @@ I'm Sezar — Backend & Systems Engineer building desktop tools and backend APIs
 - **[LingoLens](https://github.com/srnafi/LingoLens)**
 
   Snip any on-screen region — a persistent OCR backend serving 20+ languages lands paragraph-level translations at source coordinates in one hotkey.
-  <br><sub>Built with: Python • PyQt5 • Flask • EasyOCR • OpenVINO • OpenCV</sub>
+  - Dark PyQt5 Control Center for languages, colors, opacity, and fonts
+  - Tiered translation fallback (Google → deep-translator → MyMemory) so a snip never fails
+  - Persistent Flask + EasyOCR backend loads models once for instant snips
+  - `Alt+Shift+M` hotkey — drag a box and the translation renders in place
+
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-FF6F00?style=flat-square" /> <img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-00AEEF?style=flat-square&logo=intel&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
 - **[EX-Expander](https://github.com/srnafi/EX-Expander)** [![release](https://img.shields.io/github/v/release/srnafi/EX-Expander?style=flat-square)](https://github.com/srnafi/EX-Expander/releases/latest)
 
-  Type a shortcode in any app — a 4MB native engine with low-level keyboard hooks and GPU-accelerated popups inserts your expansion without stealing focus.
-  <br><sub>Built with: C++ • Win32 API • Direct2D • WebView2 • SQLite</sub>
+  Type a shortcode in any app — a portable native engine with low-level keyboard hooks and GPU-rendered popups inserts your expansion without stealing focus.
+  - Popup suggestions as you type — arrow keys to pick, Enter to insert
+  - Works in any window (browsers, editors, games) without stealing focus
+  - Per-app scoping, custom trigger characters, auto-start on login
+  - Clipboard-safe insertion plus a built-in expansion manager
+
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="Win32 API" src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" /> <img alt="Direct2D" src="https://img.shields.io/badge/Direct2D-00A4EF?style=flat-square" /> <img alt="WebView2" src="https://img.shields.io/badge/WebView2-3276BC?style=flat-square&logo=microsoftedge&logoColor=white" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
   <p align="center">
   <img alt="EX-Expander demo — type a shortcode, pick a popup, expansion inserted anywhere" width="100%" src="assets/expander_demo_cropped.gif" />
