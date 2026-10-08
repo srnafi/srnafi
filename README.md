@@ -1,5 +1,3 @@
-<img alt="header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:22D3EE&amp;height=150&amp;section=header&amp;text=Sezar%20Reza&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Backend%20%26%20Systems%20Engineer&amp;descSize=18&amp;descAlignY=62" />
-
 <div align="center">
 
 <picture>
