@@ -17,7 +17,7 @@
 
 I'm a **Backend & Systems Engineer** in Dhaka, Bangladesh. I build software by starting from a small, real annoyance and asking how to make it disappear, and I like the result to be fast, light and simple enough that nobody needs a manual.
 
-- **EX-Expander** replaces the habit of memorizing shortcuts. Start typing and a popup suggests your expansions, so you pick one with the arrow keys. It works in any app, never steals focus, and runs in a 4 MB native executable.
+- **EX-Expander** replaces the habit of memorizing shortcuts. Start typing and a popup suggests your expansions, so you pick one with the arrow keys. It works in any app, never steals focus, and ships as a ~3 MB native download.
 - **LingoLens** removes the copy, switch-tab, paste routine of translating on-screen text. Snip any region and the translation appears in place, right where the original was.
 
 I also bring an AI-evaluation background (5,500+ LLM evaluation and annotation tasks across RLHF, tool-calling and multilingual projects), so I know how models fail and how to test them.
@@ -32,7 +32,7 @@ Open to backend, systems and AI evaluation roles.
 
 **A system-wide text expander for Windows.** Type a shortcode in any app, pick from the popup, and the expansion is inserted without stealing focus. No need to memorize your own shortcuts.
 
-- **4 MB** native executable, **~3% CPU** while in active use
+- **~3 MB** native download, **~3% CPU** while in active use
 - Low-level keyboard hooks: works in browsers, editors and games
 - GPU-rendered popups (Direct2D) that never steal focus
 - Per-app scoping, custom trigger characters, auto-start on login
