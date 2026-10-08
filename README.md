@@ -5,9 +5,7 @@
   <img alt="I build tools that fix annoyances" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F2937&center=true&vCenter=true&width=650&lines=I+build+tools+that+fix+annoyances;Desktop+apps+%26+backend+APIs;Python+%C2%B7+C%2B%2B+%C2%B7+AI+Evaluation" />
 </picture>
 
-<a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sezarrezanafi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/srnafi?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/srnafi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srnafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:sezarrezanafi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://github.com/srnafi?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
