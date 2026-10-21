@@ -55,7 +55,7 @@ OCR screen translator. Press <kbd>Alt+Shift+M</kbd>, drag a box over any on-scre
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-FF6F00?style=flat-square" /> <img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-00AEEF?style=flat-square&logo=intel&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-### [Left Right Audio Balancer](https://github.com/srnafi/left-right-audio-balancer)
+### [Left Right Audio Balancer](https://github.com/srnafi/left-right-audio-balancer) [![release](https://img.shields.io/github/v/release/srnafi/left-right-audio-balancer?style=flat-square)](https://github.com/srnafi/left-right-audio-balancer/releases/latest)
 
 Per-ear volume controller for Windows 10 that sits on your desktop as a widget. The setting exists in Control Panel, several dialogs deep, which makes it useless for anything you adjust more than once. This puts both channels on a desktop card.
 
