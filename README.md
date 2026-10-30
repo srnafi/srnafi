@@ -17,7 +17,7 @@ I'm a backend and systems engineer in Dhaka, Bangladesh. Most of what I build st
 
 - **EX-Expander**: type a shortcode in any app and pick the expansion from a popup. No focus stealing, ~3 MB native build.
 - **LingoLens**: snip a region of the screen and read the translation in place, over the original text.
-- **Left Right Audio Balancer**: two volume sliders for one output device, so left and right can be set separately. Also fixes Bluetooth headsets that report only one channel.
+- **Left Right Audio Balancer**: two volume sliders with live peak meters on a desktop card. Fixes single-channel Bluetooth headsets, ~390 KB native C++ with <1 MB RAM.
 
 I have an AI-evaluation background across RLHF, tool-calling and multilingual projects, so I know how models fail and how to test for it.
 
@@ -57,14 +57,20 @@ OCR screen translator. Press <kbd>Alt+Shift+M</kbd>, drag a box over any on-scre
 
 ### [Left Right Audio Balancer](https://github.com/srnafi/left-right-audio-balancer) [![release](https://img.shields.io/github/v/release/srnafi/left-right-audio-balancer?style=flat-square)](https://github.com/srnafi/left-right-audio-balancer/releases/latest)
 
-Per-ear volume controller for Windows 10 that sits on your desktop as a widget. The setting exists in Control Panel, several dialogs deep, which makes it useless for anything you adjust more than once. This puts both channels on a desktop card.
+Per-ear volume controller for Windows that sits on your desktop as a widget. The setting exists in Control Panel, several dialogs deep, which makes it useless for anything you adjust more than once. This puts both channels on a desktop card.
 
-- Linked mode holds the offset between the ears, so a balance you set survives the next volume change. Master scales both without breaking it
-- Detects Bluetooth headsets that report a single channel, and fixes it by disabling AVRCP absolute volume. The registry write needs admin rights, and the app reads the key back to confirm it landed
-- .NET 10 and WPF, single self-contained executable
-- Does not disappear on "win + D" press, unlike most win 10 widget apps out there.
+- Linked mode holds the offset between the ears, so a balance you set survives the next volume change. Master scales both without breaking the ratio
+- Live audio peak meters inside each slider show what is actively playing out of each channel
+- Detects Bluetooth headsets that report a single channel, and fixes it by disabling AVRCP absolute volume with one click
+- Rewritten in native C++ with Direct2D: ~390 KB standalone binary, ~0.8 MB working set RAM, 0% idle CPU
+- Does not disappear on "Win + D" press, staying at the desktop layer instead of minimizing
 
-<img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white" /> <img alt="NAudio" src="https://img.shields.io/badge/NAudio-4B5563?style=flat-square" /> <img alt="Core Audio" src="https://img.shields.io/badge/Core_Audio-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="Win32 API" src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" /> <img alt="Direct2D" src="https://img.shields.io/badge/Direct2D-00A4EF?style=flat-square" /> <img alt="Core Audio" src="https://img.shields.io/badge/Core_Audio-0078D4?style=flat-square&logo=windows&logoColor=white" />
+
+<p align="center">
+  <img alt="Left Right Audio Balancer: desktop card with per-ear sliders and live peak meters" width="340" src="assets/audio_balancer.png" />
+  <br><sub>Independent left/right sliders with live peak meters on Windows desktop</sub>
+</p>
 
 ---
 
