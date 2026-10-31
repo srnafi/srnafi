@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EX-Expander Achievement</title>
+  <style>
+    @page { size: A4 portrait; margin: 12mm; }
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f7fb;
+      color: #1b2430;
+      margin: 0;
+      padding: 0;
+    }
+    .sheet {
+      width: 210mm;
+      min-height: 297mm;
+      box-sizing: border-box;
+      background: white;
+      margin: 0 auto;
+      padding: 12mm;
+      border: 1px solid #dfe6ee;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      color: #123b66;
+      text-align: center;
+    }
+    .subtitle {
+      margin-bottom: 12px;
+      text-align: center;
+      color: #53657d;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 18px;
+      margin-top: 6mm;
+      align-items: start;
+    }
+    .section {
+      background: #f7fafc;
+      border: 1px solid #dfeaf5;
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+    }
+    .label {
+      font-size: 11px;
+      font-weight: bold;
+      color: #4273a5;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      display: block;
+      margin-bottom: 6px;
+    }
+    p {
+      margin: 0;
+      line-height: 1.5;
+      font-size: 13px;
+    }
+    .screenshot {
+      width: 100%;
+      border: 1px solid #dce6ef;
+      border-radius: 10px;
+      background: #edf3fb;
+      overflow: hidden;
+      display: block;
+    }
+    .screenshot img {
+      width: 100%;
+      display: block;
+      object-fit: cover;
+      max-height: 170px;
+    }
+    a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+    .footer {
+      margin-top: 16px;
+      border-top: 1px solid #dfeaf5;
+      padding-top: 10px;
+      font-size: 12px;
+      color: #374253;
+    }
+    @media print {
+      body { background: white; }
+      .sheet { box-shadow: none; border: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <h1>EX-Expander</h1>
+    <div class="subtitle">Productivity App • Windows Text Expansion Tool</div>
+
+    <div class="grid">
+      <div>
+        <div class="section">
+          <span class="label">Role</span>
+          <p>Independent developer and project lead; designed, built, and shipped the desktop application.</p>
+        </div>
+
+        <div class="section">
+          <span class="label">Tools</span>
+          <p>C++ • Win32 API • WebView2 • SQLite • Windows system tray integration</p>
+        </div>
+
+        <div class="section">
+          <span class="label">Problem</span>
+          <p>Typing repetitive text and snippets is slow and interruptive. Many productivity tools steal focus or require a separate editor, making expansion impractical in real-world Windows workflows.</p>
+        </div>
+
+        <div class="section">
+          <span class="label">Result</span>
+          <p>I created a lightweight Windows text expander that expands user-defined shortcodes anywhere, without stealing focus. It supports popup suggestions, app-scoped rules, clipboard-safe insertion, auto-start, and an embedded manager for organizing snippets.</p>
+        </div>
+      </div>
+
+      <div>
+        <div class="section">
+          <span class="label">Screenshot</span>
+          <div class="screenshot">
+            <img src="https://raw.githubusercontent.com/srnafi/EX-Expander/main/assets/expander_demo.gif" alt="EX-Expander screenshot" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <strong>GitHub:</strong> <a href="https://github.com/srnafi/EX-Expander">https://github.com/srnafi/EX-Expander</a>
+    </div>
+  </div>
+</body>
+</html>
